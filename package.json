@@ -1,0 +1,18 @@
+{
+  "name": "qamanualtest",
+  "version": "1.0.0",
+  "description": "Learning project for QA Manual Course to try automation UI testing",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DZhalo/QAManualTest.git"
+  },
+  "author": "Daria Zhaloba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DZhalo/QAManualTest/issues"
+  },
+  "homepage": "https://github.com/DZhalo/QAManualTest#readme"
+}
